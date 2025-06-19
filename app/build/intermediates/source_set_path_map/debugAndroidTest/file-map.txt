@@ -1,0 +1,4 @@
+com.example.mapamarcadoresapp.test.app-androidTest-0 D:\Tareas\Android Studio\MapaMarcadoresApp\app\build\generated\res\resValues\androidTest\debug
+com.example.mapamarcadoresapp.test.app-mergeDebugAndroidTestResources-1 D:\Tareas\Android Studio\MapaMarcadoresApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mapamarcadoresapp.test.app-mergeDebugAndroidTestResources-2 D:\Tareas\Android Studio\MapaMarcadoresApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mapamarcadoresapp.test.app-merged_res-3 D:\Tareas\Android Studio\MapaMarcadoresApp\app\build\intermediates\merged_res\debugAndroidTest

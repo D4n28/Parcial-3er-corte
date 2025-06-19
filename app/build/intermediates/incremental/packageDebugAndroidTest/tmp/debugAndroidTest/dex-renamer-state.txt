@@ -1,0 +1,4 @@
+#Wed Jun 18 19:08:19 COT 2025
+base.0=D\:\\Tareas\\Android Studio\\MapaMarcadoresApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
